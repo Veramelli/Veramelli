@@ -6,6 +6,11 @@
 - 🔭 Nowadays i work as a HR manager however, i decided to change my occupation and become a frontend developer,<br/>
 because i like learning something new and i like programming. I'm studying in "It girl school"<br/>
 - 🌱 I am currently learning the React framework.<br/>
+- 😍 I love coding. <br/>
 - 😄 I have four cats and i like it.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.<br/><br/>
 </div>
+
+<h2>My stack :woman_technologist:</h2>
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
