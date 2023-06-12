@@ -24,5 +24,5 @@ because i like learning something new and i like programming. I'm studying in "I
   
  <h2>Contact me:</h2> Contact me:
 <div height="56">
-  - ✈️: Telegram:<a href="https://t.me/VeraMelli">
+  - ✈️: Telegram:<a href="https://t.me/VeraMelli"> VeraMelli </a>
 </div>
