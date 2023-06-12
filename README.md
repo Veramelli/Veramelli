@@ -1,4 +1,4 @@
-<h1>JUNIOR FRONTEND-DEVELOPER</h1>
+<h1>VERA - i'm junior FRONTEND-DEVELOPER</h1>
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;" alt="Typing SVG" /></a>
