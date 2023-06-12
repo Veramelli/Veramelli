@@ -22,7 +22,7 @@ because i like learning something new and i like programming. I'm studying in "I
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
  </div>
   
- <h2>Contact me:</h2> Contact me:
+ <h2>Contact me :pen: </h2> 
 <div height="56">
   - ✈️: Telegram:<a href="https://t.me/VeraMelli"> VeraMelli </a>
 </div>
