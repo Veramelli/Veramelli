@@ -13,4 +13,10 @@ because i like learning something new and i like programming. I'm studying in "I
 <h2>My stack :woman_technologist:</h2>
 
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
